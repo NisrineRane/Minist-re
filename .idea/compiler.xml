@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <bytecodeTargetLevel>
+      <module name="Server" target="17" />
+    </bytecodeTargetLevel>
+=======
+>>>>>>> fe59d8b0d85a80ab563b876b0d57a6214c167353
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -14,5 +22,9 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Server" options="-parameters" />
     </option>
+<<<<<<< HEAD
+=======
+>>>>>>> 6ea5d9743b19185f7b16b20a20a9119ee9769a04
+>>>>>>> fe59d8b0d85a80ab563b876b0d57a6214c167353
   </component>
 </project>
