@@ -1,4 +1,4 @@
 package net.stage.Server.Service;
 
-public class UserServiceImpl {
+public interface CategoryService {
 }

@@ -1,4 +1,4 @@
 package net.stage.Server.Controller;
 
-public class UserController {
+public class ProductController {
 }
