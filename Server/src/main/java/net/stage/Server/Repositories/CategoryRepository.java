@@ -1,4 +1,4 @@
 package net.stage.Server.Repositories;
 
-public interface UserRepository {
+public interface CategoryRepository {
 }
